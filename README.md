@@ -74,3 +74,29 @@ Ogólnie rzecz biorąc, nie ma świeżo utworzonych monet jako części nagrody 
 Do tej pory, czysty Proof of Stake został naprawdę wdrożony tylko w mniejszych kryptowalutach. Dlatego nie jest jasne, czy może służyć jako realna alternatywa dla PoW. Chociaż wydaje się to teoretycznie rozsądne, w praktyce będzie zupełnie inaczej. 
 Gdy PoS zostanie wprowadzony w sieci o dużej wartości, system staje się polem gry teorii gier i zachęt finansowych. Każdy, kto posiada know-how, aby "zhakować" system PoS, prawdopodobnie zrobiłby to tylko wtedy, gdyby mógł na tym zyskać - dlatego jedynym sposobem, aby przekonać się, czy jest to wykonalne, jest sieć działająca na żywo.
 Wkrótce będziemy świadkami testowania PoS na dużą skalę - Casper zostanie wdrożony jako część serii aktualizacji sieci Ethereum (znanej pod wspólną nazwą Ethereum 2.0).
+
+
+Nie ma to jak eksplozja wiadomości o blockchainie, która pozostawia cię z myślą: "Hm... co tu się dzieje?". Właśnie takiego uczucia doświadczyłem, czytając o tym, że Grimes dostała miliony dolarów za NFT lub o tym, że Nyan Cat został sprzedany jako jeden z nich. I kiedy już wydawało nam się, że wiemy, o co chodzi, założyciel Twittera wystawił na sprzedaż tweeta z autografem jako NFT. Teraz, miesiące po opublikowaniu tego wyjaśnienia, wciąż widzimy nagłówki gazet o ludziach płacących krocie za obrazy skał, a moja mama wciąż nie rozumie, czym jest NFT.
+
+Być może zastanawiasz się, co to w ogóle jest NFT?
+
+Po dosłownie kilku godzinach czytania myślę, że wiem. Myślę też, że się popłaczę.
+
+Dobrze, zacznijmy od podstaw:
+
+CO TO JEST NFT? CO OZNACZA SKRÓT NFT?
+Niegrywalny token.
+
+To wcale nie wyjaśnia sprawy.
+
+Racja, przepraszam. "Niegrywalny" oznacza mniej więcej, że jest unikalny i nie można go zastąpić czymś innym. Na przykład bitcoin jest zamienny - wymień go na inny bitcoin, a będziesz miał dokładnie to samo. Natomiast jedyna w swoim rodzaju karta handlowa jest niemożliwa do wymiany. Gdybyś wymienił ją na inną kartę, miałbyś coś zupełnie innego. Oddałeś Squirtle'a, a otrzymałeś T206 Honusa Wagnera z 1909 roku, którą StadiumTalk nazywa "Mona Lisą kart baseballowych". (Trzymam ich za słowo).
+
+Jak działają NFT?
+
+Na bardzo wysokim poziomie, większość NFT jest częścią blockchaina Ethereum. Ethereum jest kryptowalutą, taką jak bitcoin czy dogecoin, ale jego blockchain obsługuje również te NFT, które przechowują dodatkowe informacje, dzięki czemu działają inaczej niż, powiedzmy, moneta ETH. Warto zauważyć, że inne blockchainy mogą zaimplementować własne wersje NFT. (Niektóre już to zrobiły).
+
+Co warto kupić w supermarkecie NFT?
+
+NFT może być tak naprawdę wszystko, co cyfrowe (np. rysunki, muzyka, twój mózg pobrany i zamieniony w SI), ale wiele emocji wzbudza obecnie wykorzystanie tej technologii do sprzedaży sztuki cyfrowej.
+
+
